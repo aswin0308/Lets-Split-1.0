@@ -1,0 +1,6 @@
+ERROR: 2024/06/11 16:08:36 helpers.go:53: template: split.page.tmpl:5: function "Amount" not defined
+ERROR: 2024/06/11 16:08:37 helpers.go:53: template: split.page.tmpl:5: function "Amount" not defined
+mplate: split.page.tmpl:5: function "Amount" not defined
+unt>: can't evaluate field Amount in type *main.templateData
+ERROR: 2024/06/11 15:55:35 helpers.go:62: template: split.page.tmpl:5:39: executing "body" at <.Amount>: can't evaluate field Amount in type *main.templateData
+ERROR: 2024/06/11 15:55:37 helpers.go:62: template: split.page.tmpl:5:39: executing "body" at <.Amount>: can't evaluate field Amount in type *main.templateData
